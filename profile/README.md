@@ -67,19 +67,6 @@ GPS 기반 실시간 트래킹, 상세한 기록 분석, 그리고 함께 달리
 - 프로필 커스터마이징
 - 지도 프라이버시 (시작/종료 1km 자동 블러)
 - 공개 범위 세분화 (전체 / 팔로워 / 비공개)
-
----
-
-## 🎨 디자인 시스템
-
-| 요소 | 값 |
-|------|-----|
-| **Primary** | `#1E55FF` (Brand Blue) |
-| **Accent** | `#22C98D` (Success Green) |
-| **Display Font** | Bricolage Grotesque |
-| **Body Font** | Pretendard |
-| **Mono Font** | JetBrains Mono |
-
 ---
 
 ## 🗺️ 로드맵
