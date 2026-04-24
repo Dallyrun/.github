@@ -1,12 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# 🏃‍♂️ 달리런 · Dallyrun
 
-**Here are some ideas to get you started:**
+**내 러닝의 모든 순간을, 한 곳에.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+GPS 트래킹부터 크루 활동까지 — 러너의 여정을 하나로 잇는 러닝 플랫폼
+</div>
+
+---
+
+## ✨ 서비스 소개
+
+**달리런**은 러닝을 사랑하는 모든 러너를 위한 올인원 플랫폼입니다.
+GPS 기반 실시간 트래킹, 상세한 기록 분석, 그리고 함께 달리는 러닝 크루 커뮤니티까지 — 시작부터 완주까지 모든 순간을 함께합니다.
+
+- 📱 **Mobile App** · 실시간 러닝 트래킹과 기록
+- 🖥️ **Web** · 더 넓은 화면에서 기록 분석과 커뮤니티 활동
+
+---
+
+## 🎯 핵심 기능
+
+### 🏃 러닝 트래킹 *(App 전용)*
+- GPS 기반 실시간 경로 기록
+- 페이스 · 거리 · 시간 실시간 표시
+- 시작 / 일시정지 / 종료 컨트롤
+- 종료 시 자동 요약 (거리, 페이스, 칼로리, 고도)
+
+### 📊 기록 & 통계
+- 과거 러닝 세션 히스토리
+- 구간별 페이스 그래프 (1km 스플릿)
+- 주간 · 월간 · 연간 누적 통계
+- 개인 신기록(PR) 자동 감지
+
+### 🎯 목표 설정 & 달성
+- 주간 · 월간 거리 목표 설정
+- AI 기반 추천 목표 제안
+- 캘린더 히트맵으로 달성률 시각화
+- 목표 달성 시 뱃지 자동 획득
+
+### 🏆 뱃지 시스템
+- 거리 마일스톤 (10K · 50K · 100K 클럽 등)
+- 연속 러닝 (7일 · 30일 · 100일)
+- 시간대별 성취 (새벽 러너, 심야 러너)
+- 특별 이벤트 뱃지
+
+### 📱 소셜 공유
+- 러닝 결과 공유 카드 자동 생성 (9:16 인스타 포맷)
+- 카카오톡 · 인스타그램 스토리 원클릭 공유
+- 다양한 카드 테마 선택
+
+### 💬 러닝 커뮤니티
+- 팔로우 기반 피드
+- 게시물 작성 (러닝 기록 첨부, 사진, 해시태그)
+- 좋아요 · 댓글 · 리포스트
+- 주제별 게시판 (초보자 Q&A, 코스 추천, 후기)
+
+### 👥 런닝크루
+- 지역 기반 크루 검색 및 가입
+- 페이스 · 시간대 · 레벨로 필터링
+- 모집글 작성 (일정 · 장소 · 페이스 · 인원 구조화)
+- 크루 활동 푸시 알림
+
+### 👤 프로필 & 계정
+- 공개 프로필 (레벨, 뱃지, 통계, 크루)
+- 프로필 커스터마이징
+- 지도 프라이버시 (시작/종료 1km 자동 블러)
+- 공개 범위 세분화 (전체 / 팔로워 / 비공개)
+
+---
+
+## 🎨 디자인 시스템
+
+| 요소 | 값 |
+|------|-----|
+| **Primary** | `#1E55FF` (Brand Blue) |
+| **Accent** | `#22C98D` (Success Green) |
+| **Display Font** | Bricolage Grotesque |
+| **Body Font** | Pretendard |
+| **Mono Font** | JetBrains Mono |
+
+---
+
+## 🗺️ 로드맵
+
+### ✅ Phase 1 (MVP) — 현재
+로그인 · 러닝 트래킹 · 기록 · 목표 · 공유 · 커뮤니티 · 크루 · 설정
+
+### 🔜 Phase 2 (예정)
+- 소셜 로그인 (카카오 · 애플 · 구글)
+- Galaxy Watch 실시간 연동
+- 마라톤 대회 정보 & 신청
+- 러닝 용품 스토어
+---
+
+<div align="center">
+
+**달리런과 함께, 매일 한 걸음 더 나아가세요.** 🏃‍♀️✨
+
+Made with 💙 by Dallyrun
+
+</div>
