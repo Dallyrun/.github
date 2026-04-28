@@ -17,7 +17,7 @@ GPS 기반 실시간 트래킹, 상세한 기록 분석, 그리고 함께 달리
 - 📱 **Mobile App** · 실시간 러닝 트래킹과 기록
 - 🖥️ **Web** · 더 넓은 화면에서 기록 분석과 커뮤니티 활동
 
-### **Figma** : https://www.figma.com/design/jMt8waz0utMbM7QlHBgNhj/Dallyrun?node-id=0-1&t=Fsn9zUuBuBWzCB5e-1
+### [Figma](https://www.figma.com/design/jMt8waz0utMbM7QlHBgNhj/Dallyrun?node-id=0-1&t=Fsn9zUuBuBWzCB5e-1)
 ---
 
 ## 🎯 핵심 기능
